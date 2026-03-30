@@ -1,16 +1,16 @@
-## Hi there 👋
+⚡️ LIM JIA XUAN | Software & Data Engineer
+"Building data-driven systems that solve real-world problems."
 
-<!--
-**jiaxuan10/jiaxuan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Core Competencies
+· Engineering: Java, Python, Scala, and SQL.
+· AI & Data: End-to-end Machine Learning pipelines and Financial Sentiment Analysis (FinBERT).
+· Full-Stack: Svelte, TypeScript, and Supabase.
+· Performance: 3.81 CGPA and a 2x National Hackathon Finalist.
 
-Here are some ideas to get you started:
+🏗️ Featured Project: Gold AI Quant System
+An automated algorithmic trading engine blending Ensemble ML models with real-time NLP sentiment to navigate the gold market.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let's Connect
+· Email: limjiaxuan1357@gmail.com 
+· LinkedIn: [Jia Xuan Lim]([URL](https://www.linkedin.com/in/jia-xuan-lim-2169a8250/))
+· Status: Seeking high-impact roles in AI, Data, or Software Engineering.
